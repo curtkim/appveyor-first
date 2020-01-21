@@ -1,3 +1,3 @@
 # appveyor-first
 
-![build status](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "build status")
+![build status](https://ci.appveyor.com/api/projects/status/3lmd52ymy38alyc2?svg=true "build status")
